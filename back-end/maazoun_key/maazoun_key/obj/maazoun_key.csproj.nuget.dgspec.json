@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\porjet Rabiee\\porjet rabi3\\back-end\\maazoun_key\\maazoun_key\\maazoun_key.csproj": {}
+    "D:\\porjet Rabiee\\maazoun_key\\back-end\\maazoun_key\\maazoun_key\\maazoun_key.csproj": {}
   },
   "projects": {
-    "D:\\porjet Rabiee\\porjet rabi3\\back-end\\maazoun_key\\maazoun_key\\maazoun_key.csproj": {
+    "D:\\porjet Rabiee\\maazoun_key\\back-end\\maazoun_key\\maazoun_key\\maazoun_key.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\porjet Rabiee\\porjet rabi3\\back-end\\maazoun_key\\maazoun_key\\maazoun_key.csproj",
+        "projectUniqueName": "D:\\porjet Rabiee\\maazoun_key\\back-end\\maazoun_key\\maazoun_key\\maazoun_key.csproj",
         "projectName": "maazoun_key",
-        "projectPath": "D:\\porjet Rabiee\\porjet rabi3\\back-end\\maazoun_key\\maazoun_key\\maazoun_key.csproj",
+        "projectPath": "D:\\porjet Rabiee\\maazoun_key\\back-end\\maazoun_key\\maazoun_key\\maazoun_key.csproj",
         "packagesPath": "C:\\Users\\Sabri Jammoussi\\.nuget\\packages\\",
-        "outputPath": "D:\\porjet Rabiee\\porjet rabi3\\back-end\\maazoun_key\\maazoun_key\\obj\\",
+        "outputPath": "D:\\porjet Rabiee\\maazoun_key\\back-end\\maazoun_key\\maazoun_key\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

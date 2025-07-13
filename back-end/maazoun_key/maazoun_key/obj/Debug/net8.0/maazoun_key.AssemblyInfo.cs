@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("maazoun_key")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fd8756f99291efeb8f932365b8618b90b212916")]
 [assembly: System.Reflection.AssemblyProductAttribute("maazoun_key")]
 [assembly: System.Reflection.AssemblyTitleAttribute("maazoun_key")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
